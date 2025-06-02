@@ -12,7 +12,6 @@
 }
 
 /* código omitido */
-/* código omitido */
 
 /* Reset */
 * {
@@ -35,32 +34,25 @@ h3 {
 
 p {
     margin-top: 20px;
+    text-align: center;
 }
 
 img {
     max-width: 90%;
 }
 
-/* código omitido */
-/* código omitido */
-
-/* Responsividade */
-@media (max-width: 768px) {
-    .conteudo {
-        width: 90%;
-    }
-
-    nav ul {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-    }
-
-    nav ul li {
-        margin: 5px 0;
-    }
-
-    .cta-button {
-        width: 100%;
-    }
+#problemas {
+    text-align: center;
 }
+
+#consequencias {
+    text-align: center;
+}
+
+#conclusao {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+/* código omitido */
